@@ -1,0 +1,4 @@
+Buy Oreo	Your stock of oreo is empty now go and buy some!	12-05-2021
+Take Your payment!	Take your remaining payment in the month end!	30-05-2021
+Build Java Desktop App	Java Desktop app is very useful nowdays and for learning java you must build a java app for now.	18-05-2021
+Build Freelance Project	Complete your dued feelance project and make it responsive.	17-05-2021
